@@ -18,7 +18,7 @@
                         <p class="english">Duration</p>
                     </div>
                     <div class="clock_text">
-                        <span class="clock" style="color:#ec6677">00:00:00</span>
+                        <span class="clock" style="color:#ec6677">11:45:14</span>
                         <span class="unit"></span>
                     </div>
                     <div class="label_text">
